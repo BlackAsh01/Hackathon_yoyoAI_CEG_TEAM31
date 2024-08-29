@@ -1,0 +1,25 @@
+[
+    {
+        "conversation_id": "conv1-Copy1",
+        "customer_requirements": {
+            "car_type": ", I don't mind. I don't mind. I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "fuel_type": ", I don't mind. I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "color": ", I don't mind. I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "distance_travelled": ", I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "make_year": ", I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "transmission_type": ", I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay"
+        },
+        "company_policies": {
+            "free_rc_transfer": true,
+            "money_back_guarantee": true,
+            "free_rsa": true,
+            "return_policy": true
+        },
+        "customer_objections": {
+            "refurbishment_quality": ", I don't mind. I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "car_issues": ", I don't mind. I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "price_issues": ", I don't mind. I don't mind. I don't mind. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay",
+            "customer_experience_issues": ", uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, u"
+        }
+    }
+]

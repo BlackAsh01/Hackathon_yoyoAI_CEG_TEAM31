@@ -1,0 +1,233 @@
+[
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": true,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": "Customer mentioned issues or problems with cars.",
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": "Customer concerned about refurbishment quality."
+        },
+        "customer_requirements": {
+            "budget": "950000",
+            "car_type": "Compact SUV",
+            "color": "white",
+            "fuel_type": "Diesel",
+            "transmission_type": "Manual"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": true,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": "Customer concerned about refurbishment quality."
+        },
+        "customer_requirements": {
+            "budget": "600000",
+            "car_type": "Sedan",
+            "color": "red",
+            "fuel_type": null,
+            "transmission_type": "Manual"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": "18000",
+            "car_type": null,
+            "color": "white",
+            "fuel_type": "Diesel",
+            "transmission_type": null
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": null,
+            "car_type": null,
+            "color": "red",
+            "fuel_type": null,
+            "transmission_type": "Manual"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": true
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": null,
+            "car_type": null,
+            "color": "white",
+            "fuel_type": "Diesel",
+            "transmission_type": "Manual"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": null,
+            "car_type": null,
+            "color": null,
+            "fuel_type": "Diesel",
+            "transmission_type": "Manual"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": "Customer concerned about refurbishment quality."
+        },
+        "customer_requirements": {
+            "budget": "47000",
+            "car_type": null,
+            "color": "red",
+            "fuel_type": null,
+            "transmission_type": "Automatic"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": null,
+            "car_type": null,
+            "color": "white",
+            "fuel_type": null,
+            "transmission_type": "Automatic"
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": "10000",
+            "car_type": "Sedan",
+            "color": "red",
+            "fuel_type": "Petrol",
+            "transmission_type": null
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": null,
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": null,
+            "car_type": null,
+            "color": "red",
+            "fuel_type": null,
+            "transmission_type": null
+        }
+    },
+    {
+        "company_policies": {
+            "free_rc_transfer": false,
+            "free_rsa": false,
+            "money_back_guarantee": false,
+            "return_policy": false
+        },
+        "customer_objections": {
+            "car_issues": "Customer mentioned issues or problems with cars.",
+            "customer_experience_issues": null,
+            "price_issues": "Customer mentioned concerns about price.",
+            "refurbishment_quality": null
+        },
+        "customer_requirements": {
+            "budget": "32000",
+            "car_type": null,
+            "color": "red",
+            "fuel_type": null,
+            "transmission_type": null
+        }
+    }
+]

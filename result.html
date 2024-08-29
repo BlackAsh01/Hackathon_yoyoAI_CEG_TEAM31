@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Result</title>
+</head>
+<body>
+    <h1>Conversation Analysis Result</h1>
+    <h2>Customer Requirements</h2>
+    <ul>
+        <li>Car Type: {{ result.customer_requirements.car_type }}</li>
+        <li>Fuel Type: {{ result.customer_requirements.fuel_type }}</li>
+        <li>Color: {{ result.customer_requirements.color }}</li>
+        <li>Budget: {{ result.customer_requirements.budget }}</li>
+        <li>Transmission Type: {{ result.customer_requirements.transmission_type }}</li>
+    </ul>
+
+    <h2>Company Policies</h2>
+    <ul>
+        <li>Free RC Transfer: {{ result.company_policies.free_rc_transfer }}</li>
+        <li>Money Back Guarantee: {{ result.company_policies.money_back_guarantee }}</li>
+        <li>Free RSA: {{ result.company_policies.free_rsa }}</li>
+        <li>Return Policy: {{ result.company_policies.return_policy }}</li>
+    </ul>
+
+    <h2>Customer Objections</h2>
+    <ul>
+        <li>Refurbishment Quality: {{ result.customer_objections.refurbishment_quality }}</li>
+        <li>Car Issues: {{ result.customer_objections.car_issues }}</li>
+        <li>Price Issues: {{ result.customer_objections.price_issues }}</li>
+        <li>Customer Experience Issues: {{ result.customer_objections.customer_experience_issues }}</li>
+    </ul>
+
+    <a href="/">Go back</a>
+</body>
+</html>
